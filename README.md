@@ -6,8 +6,7 @@
 ![Python](https://img.shields.io/badge/python-v3.6+-blue.svg)
 ![Contributions welcome](https://img.shields.io/badge/contributions-welcome-orange.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
-![Stars](https://img.shields.io/github/stars/yourusername/python-100-programs.svg)
-![Forks](https://img.shields.io/github/forks/yourusername/python-100-programs.svg)
+![Stars](https://img.shields.io/github/stars/Prince200510/Python_All_Basic_Code.svg)
 
 *From Beginner to Expert: A Complete Journey Through Python Programming*
 
@@ -49,13 +48,10 @@ python3 --version
 ### Quick Start
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/python-100-programs.git
-
-# Navigate to the project
-cd python-100-programs
+git clone https://github.com/Prince200510/Python_All_Basic_Code.git
 
 # Run any program
-python program_001_hello_world.py
+python 001_Hello.py
 ```
 
 ---
@@ -271,7 +267,7 @@ We love contributions! Here's how you can help make this repository even better:
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Prince200510&show_icons=true&theme=radical)
 
 </div>
 
@@ -294,22 +290,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 🙏 Acknowledgments
-
-- **Devbrat Rudra** - Original program collection from www.rudyhelp.com
-- **Python Community** - For the amazing language and ecosystem
-- **Contributors** - Everyone who helps improve this repository
-- **You** - For choosing to learn and grow with Python!
-
 ---
 
 ## 📞 Connect With Me
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-yourusername-black?style=for-the-badge&logo=github)](https://github.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-yourprofile-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-yourhandle-blue?style=for-the-badge&logo=twitter)](https://twitter.com/yourhandle)
+[![GitHub](https://img.shields.io/badge/GitHub-yourusername-black?style=for-the-badge&logo=github)](https://github.com/Prince200510)
 
 **Happy Coding! 🐍✨**
 
@@ -323,6 +310,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **[⬆️ Go to Top](#-python-100-programs-challenge)** | **[📚 Browse Programs](#complete-programs-list)** | **[🤝 Contribute](#contributing)**
 
-*Made with ❤️ by developers, for developers*
+*Created by Prince Maurya | Made for developers*
 
 </div>
