@@ -296,7 +296,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-yourusername-black?style=for-the-badge&logo=github)](https://github.com/Prince200510)
+[![GitHub](https://img.shields.io/badge/GitHub-Prince200510-black?style=for-the-badge&logo=github)](https://github.com/Prince200510)
 
 **Happy Coding! 🐍✨**
 
